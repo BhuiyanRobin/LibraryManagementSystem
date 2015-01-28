@@ -1,0 +1,24 @@
+c:\users\bhuiyan robin\documents\visual studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\bhuiyan robin\documents\visual studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+c:\users\bhuiyan robin\documents\visual studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+c:\users\bhuiyan robin\documents\visual studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+c:\users\bhuiyan robin\documents\visual studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+c:\users\bhuiyan robin\documents\visual studio 2013\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+G:\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+G:\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+G:\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+G:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+G:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+G:\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Bhuiyan Robin\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+C:\Users\Bhuiyan Robin\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+C:\Users\Bhuiyan Robin\Desktop\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+C:\Users\Bhuiyan Robin\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Bhuiyan Robin\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\Bhuiyan Robin\Desktop\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\PC21\Desktop\with bootstrap\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+C:\Users\PC21\Desktop\with bootstrap\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+C:\Users\PC21\Desktop\with bootstrap\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+C:\Users\PC21\Desktop\with bootstrap\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\with bootstrap\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\PC21\Desktop\with bootstrap\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
